@@ -1,4 +1,9 @@
+<<<<<<< HEAD
  # Git Project - README
+=======
+ 
+# Git Project - README
+>>>>>>> d43fd37f223cd1c1f4e628b839c4abaf563ba681
 
 ## Project Overview
 This project is created to demonstrate the usage of Git and GitHub workflows using Visual Studio Code (VS Code). It includes essential Git commands, distinctions between local and remote workflows, encountered difficulties, and reflections on using AI for assistance.
@@ -110,4 +115,7 @@ Below is an example image illustrating the Git workflow:
 
 🚀 **Your project is now successfully managed with Git and GitHub using VS Code!**
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> d43fd37f223cd1c1f4e628b839c4abaf563ba681
